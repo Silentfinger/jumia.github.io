@@ -1,0 +1,314 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav{
+    list-style: none;
+    background-color:#e2dddd;
+  
+}
+.navbar-nav{
+    display: inline-block;
+   
+    
+    
+}
+.form{
+    margin-right: 90px;
+    
+}
+
+
+.cook{
+    padding-left: 20px;
+
+  
+}
+.make{
+    margin-left: 10px;
+    
+}
+.hap{
+   padding-left: 340px;
+    margin-left: 10px;
+}
+.nav{
+    list-style: none;
+    background-color:white;
+    margin-bottom: 30px;
+
+}
+.navbar i{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 19px;
+
+    
+    
+}
+.sake{
+    padding-left: 18px;
+    padding-top: 8px;
+    padding-right: 18px;
+    padding-bottom:8px;
+    background-color: #FF9900;
+    border: 1px solid #FF9900;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    font-family:sans-serif;
+    margin-left: 10px;
+
+    
+}
+.dot{
+    padding-right: 300px;
+    padding-left: 90px;
+    margin-left: 20px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border: 1px solid  #e0d1d1;
+    border-radius: 1px;
+    
+}
+.jumia{
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 34px;
+}
+.acc{
+    margin-left:30px
+}
+.move{
+    color: black;
+    position: absolute;
+    
+}
+
+
+.cart{
+    padding-left:10px
+}
+.month{
+    margin-right: 200px;
+}
+.search{
+    position: absolute;
+    margin-left: 20px;
+}
+.thank{
+    margin-right:179px;
+    background-color:white;
+    margin-left: 190px;
+    margin-top: 20px;
+   
+}
+.bad{
+    margin-left: 90px;
+}
+.top{
+    margin-right:179px;
+    background-color:white;
+    margin-left: 190px;
+    margin-top: 20px;
+    
+}
+.love{
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.yes{
+    margin-left: 70px;
+
+}
+.do{
+    margin-bottom: 10px;
+
+}
+.above{
+    margin-right:165px;
+    background-color:white;
+    margin-left: 120px;
+    margin-top: 20px;
+    
+}
+.boy{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.ever{
+    margin-left: 15px;
+}
+.play{
+    padding-right: 10px;
+}
+.ukti{
+    padding-right: 10px;
+}
+.let{
+    margin-right:179px;
+    background-color:white;
+    margin-left: 190px;
+    margin-top: 20px;
+    
+}
+.real{
+    margin-top: 10px;
+}
+.time{
+    background-color: red;
+    font-size: bold; 
+   text-align: center;
+
+}
+.miss{
+    background-color: #FDECF0;
+    font-size: bold; 
+   text-align: center;
+}
+.deal{
+    background-color: #FDECF0;
+    font-size: bold; 
+   
+}
+.shop{
+    background-color: #FDECF0;
+    font-size: bold; 
+   text-align: center;
+}
+.warrant{
+    background-color: #FDECF0;
+    font-size: bold; 
+   
+}
+.holiday{
+    background-color: #FCE7BB;
+    font-size: bold; 
+   text-align: center;
+}
+.mode{
+    background-color: #FCE7BB;
+    font-size: bold; 
+}
+.my{
+    background-color: #E2F5FF;
+    font-size: bold; 
+}
+.kill{
+    background-color: #E2F5FF;
+    font-size: bold; 
+   text-align: center;
+}
+.and{
+    background-color: #E1BEE7;
+    font-size: bold; 
+   text-align: center;
+}
+.yeah{
+    background-color: #E1BEE7;
+    font-size: bold; 
+}
+.duck{
+    background-color: #E1BEE7;
+    font-size: bold; 
+}
+.flash{
+    background-color: #FEE2CC;
+    font-size: bold; 
+   text-align: center;
+}
+.you{
+    background-color: #FEE2CC;
+    font-size: bold; 
+}
+.any{
+    background-color: #FEE2CC;
+    font-size: bold; 
+}
+.price{
+    background-color: #FEE2CC;
+    font-size: bold; 
+}
+.online{
+    margin-right:179px;
+    background-color:white;
+    margin-left: 190px;
+    margin-top: 20px; 
+}
+.shit{
+    
+    color: black;
+    font-weight: bold;
+}
+.don{
+    color: black;
+    font-weight: bold;
+}
+.pot{
+    margin-right:179px;
+    background-color:white;
+    margin-left: 190px;
+    margin-top: 20px;
+    font-size: 13.5px;
+}
+.socket{
+    font-size: 18px;
+}
+.nav-barnav{
+    background-color: black;
+    padding-bottom: 70px;
+    padding-top: 70px;
+    
+   
+}
+.who{
+    margin-left: 60px;
+}
+.inlove{
+    margin-bottom: 30px;
+    margin-left: 150px;
+    color: white;
+}
+.round{
+    padding-right: 150px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 110px;
+}
+.male{
+    padding-right: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    color: white;
+    background-color: black;
+}
+.star{
+    margin-left: 70px;
+    border-radius: 5px;
+}
+.download{
+      color: white;
+      margin-left: 5px;
+      font-weight: bold;
+      font-size: 16px;
+}
+.app{
+   border: 1px solid white;
+   border-radius: 2px;
+   margin-top: 20px;
+   margin-right: 10px;
+   
+}
+.access{
+    color: darkgray;
+}
+.help{
+    padding-top: 30px;
+}
+
